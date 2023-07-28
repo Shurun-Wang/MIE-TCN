@@ -1,4 +1,4 @@
 # MIE-TCN
-Multi-joint angles estimation using MIE-TCN.
+Multi-joint Kinematics estimation using MIE-TCN.
 
 Coming soon
