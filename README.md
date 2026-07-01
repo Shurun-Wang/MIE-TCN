@@ -42,7 +42,7 @@ The processed and segmented data will be automatically saved to the `data/databa
 
 ## 🚀 Quick Start
 
-### 1\. MIE-TCN method
+### MIE-TCN method
 
 Execute the proposed MIE-TCN method:
 
