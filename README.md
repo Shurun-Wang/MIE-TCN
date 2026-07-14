@@ -4,6 +4,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.10-orange)](https://pytorch.org/)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/Shurun-Wang/MIE-TCN&label=visitors&countColor=%232ccce4&style=plastic)  
 Welcome to the official repository for the MIE-TCN method.
 
 
@@ -79,3 +80,14 @@ This project is licensed under the [MIT License](https://www.google.com/search?q
 
 ```
 ```
+
+If our work is helpful to you, please **Star** it and kindly **Cite** our paper as:  
+    
+    @article{Wang2026EstimatingLM,
+      title={Estimating Lower-Extremity Multi-Joint Kinematics with One IMU Sensor via Attention-based Temporal Convolutional Neural Network},
+      author={Shurun Wang and Hao Tang and Ryutaro Himeno and Jordi Sol{\'e}-Casals and Ying Tan and Jie Mao and C{\'e}sar Federico Caiafa and Zhe Sun},
+      journal={Cognitive Computation},
+      year={2026},
+      volume={18},
+      url={https://api.semanticscholar.org/CorpusID:289984635}
+    }
