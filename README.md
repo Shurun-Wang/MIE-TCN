@@ -1,10 +1,9 @@
-# MIE-TCN for Lower-extremity motion estimation
-
+# MIE-TCN for Lower-extremity motion estimation using one IMU sensor 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/Shurun-Wang/MIE-TCN&label=visitors&countColor=%232ccce4&style=plastic)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.10-orange)](https://pytorch.org/)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https://github.com/Shurun-Wang/MIE-TCN&label=visitors&countColor=%232ccce4&style=plastic)  
 Welcome to the official repository for the MIE-TCN method.
 
 
